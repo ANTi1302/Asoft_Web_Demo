@@ -56,6 +56,20 @@
                         <li class="nav-item">
                             <a class="nav-link" href="javascript:void(0)">About</a>
                         </li>
+                        <li>
+                            <div class="btn-group">
+                              <button type="button" class="nav-link btn dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                Dropdown
+                              </button>
+                              <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">Action</a></li>
+                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                <li><hr class="dropdown-divider"></li>
+                                <li><a class="dropdown-item" href="#">Separated link</a></li>
+                              </ul>
+                            </div>
+                        </li>
                     </ul>
                     <form class="d-flex">
                         <input class="form-control me-2" type="text" placeholder="Search" />
@@ -123,7 +137,9 @@
                                     class="form-control"
                                     placeholder="Nhập lại mật khẩu"
                                     OnTextChanged="onChangeConfirmPassword"
-                                    AutoPostBack="false"></asp:TextBox>
+                                    AutoPostBack="false"
+                                    onkeyup="onChangeConfirmPassword();"></asp:TextBox>
+                                
                                 <asp:Label ID="outputLabelPwdNV2" runat="server" Text="" class="text-danger"></asp:Label>
                             </div>
                             <div class="mb-3">
