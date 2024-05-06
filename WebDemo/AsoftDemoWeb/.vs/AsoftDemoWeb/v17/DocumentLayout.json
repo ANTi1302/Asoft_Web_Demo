@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\TRAINING_2024\\WebDemo\\AsoftDemoWeb\\",
+  "WorkspaceRootPath": "E:\\TRAINING_2024\\Asoft_Web_Demo\\WebDemo\\AsoftDemoWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E8B745E-86AD-4A83-B346-D8738B68D6EB}|AsoftDemoWeb\\AsoftDemoWeb.csproj|E:\\TRAINING_2024\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8B745E-86AD-4A83-B346-D8738B68D6EB}|AsoftDemoWeb\\AsoftDemoWeb.csproj|solutionrelative:AsoftDemoWeb\\Index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E8B745E-86AD-4A83-B346-D8738B68D6EB}|AsoftDemoWeb\\AsoftDemoWeb.csproj|e:\\training_2024\\asoft_web_demo\\webdemo\\asoftdemoweb\\asoftdemoweb\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8B745E-86AD-4A83-B346-D8738B68D6EB}|AsoftDemoWeb\\AsoftDemoWeb.csproj|solutionrelative:asoftdemoweb\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E8B745E-86AD-4A83-B346-D8738B68D6EB}|AsoftDemoWeb\\AsoftDemoWeb.csproj|e:\\training_2024\\webdemo\\asoftdemoweb\\asoftdemoweb\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1E8B745E-86AD-4A83-B346-D8738B68D6EB}|AsoftDemoWeb\\AsoftDemoWeb.csproj|solutionrelative:asoftdemoweb\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{1E8B745E-86AD-4A83-B346-D8738B68D6EB}|AsoftDemoWeb\\AsoftDemoWeb.csproj|E:\\TRAINING_2024\\Asoft_Web_Demo\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1E8B745E-86AD-4A83-B346-D8738B68D6EB}|AsoftDemoWeb\\AsoftDemoWeb.csproj|solutionrelative:AsoftDemoWeb\\Index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.aspx",
-              "DocumentMoniker": "E:\\TRAINING_2024\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx",
+              "DocumentMoniker": "E:\\TRAINING_2024\\Asoft_Web_Demo\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx",
               "RelativeDocumentMoniker": "AsoftDemoWeb\\Index.aspx",
-              "ToolTip": "E:\\TRAINING_2024\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx",
+              "ToolTip": "E:\\TRAINING_2024\\Asoft_Web_Demo\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx",
               "RelativeToolTip": "AsoftDemoWeb\\Index.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-03T01:14:14.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T01:14:14.316Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.aspx.cs",
-              "DocumentMoniker": "E:\\TRAINING_2024\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx.cs",
+              "DocumentMoniker": "E:\\TRAINING_2024\\Asoft_Web_Demo\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx.cs",
               "RelativeDocumentMoniker": "AsoftDemoWeb\\Index.aspx.cs",
-              "ToolTip": "E:\\TRAINING_2024\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx.cs",
+              "ToolTip": "E:\\TRAINING_2024\\Asoft_Web_Demo\\WebDemo\\AsoftDemoWeb\\AsoftDemoWeb\\Index.aspx.cs",
               "RelativeToolTip": "AsoftDemoWeb\\Index.aspx.cs",
-              "ViewState": "AQIAABUBAAAAAAAAAAAYwBsBAAAwAAAA",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAgwCMBAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T07:01:27.187Z",
               "EditorCaption": ""
